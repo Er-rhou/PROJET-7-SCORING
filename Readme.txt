@@ -1,5 +1,5 @@
 
 
 Pour afficher le WebApp veuillez :
-	  #Executer le fichier "WebApp.py" avec streamlit : streamlit run WebApp.py
+	  #Executer le fichier "WebAppBr.py" avec streamlit : streamlit run WebAppBr.py
 	  #Telecharger votre Dataset dans le Dashboard
